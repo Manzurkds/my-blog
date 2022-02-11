@@ -15,7 +15,7 @@
     "sanity-blocks-vue-component": "^0.1.0"
   },
   "devDependencies": {
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.0"
   }
 }
